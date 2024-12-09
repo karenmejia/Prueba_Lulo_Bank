@@ -1,5 +1,5 @@
 from utils.api_extraction import APIExtraction
-from utils.data_processing import DataProcessor
+from utils.df_generation import normalize
 import os
 from utils.date_iteration import iteration
 import calendar
@@ -11,18 +11,20 @@ ruta_json = os.path.join(directorio_raiz, 'json')
 year = 2024
 month = 1
 
+normalize(ruta_json)
+
 # Crear una instancia de la clase APIHandler
 api = APIExtraction(base_url="http://api.tvmaze.com/schedule/web", save_directory=ruta_json)
 
 # Llamar a los métodos de la clase
-date_generator = iteration(year,month)
-last_day = calendar.monthrange(year, month)[1]
+#date_generator = iteration(year,month)
+#last_day = calendar.monthrange(year, month)[1]
 
-for day in range(0,last_day):
-    current_date = next(date_generator)
-    datos = api.fetch_data(current_date)
-    json_file = 'series_'+str(current_date)+'.json'
-    api.save_json(datos, json_file)
+#for day in range(0,last_day):
+#    current_date = next(date_generator)
+#    datos = api.fetch_data(current_date)
+#    json_file = 'series_'+str(current_date)+'.json'
+#    api.save_json(datos, json_file)
 
 # Procesar datos
 #processor = DataProcessor(ruta_json + "//" + json_file)
