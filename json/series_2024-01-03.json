@@ -151,7 +151,7 @@
                 "rating": {
                     "average": 6.3
                 },
-                "weight": 23,
+                "weight": 31,
                 "network": null,
                 "webChannel": {
                     "id": 366,
@@ -235,7 +235,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 366,
@@ -580,7 +580,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 76,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -609,12 +609,12 @@
                         "href": "https://api.tvmaze.com/shows/68583"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076369",
-                        "name": "Episode 86"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3077025",
                         "name": "Episode 87"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3077026",
+                        "name": "Episode 88"
                     }
                 }
             }
@@ -1035,7 +1035,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 238,
@@ -1125,7 +1125,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 46,
+                "weight": 26,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -1671,7 +1671,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1763,7 +1763,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2563,7 +2563,7 @@
                 "rating": {
                     "average": 6.7
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -2592,12 +2592,12 @@
                         "href": "https://api.tvmaze.com/shows/793"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053759",
-                        "name": "05/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060027",
+                        "name": "10/12/2024"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060026",
-                        "name": "09/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060028",
+                        "name": "11/12/2024"
                     }
                 }
             }
@@ -3419,7 +3419,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 12,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -3513,7 +3513,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 12,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -3600,7 +3600,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 458,
@@ -3687,7 +3687,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 458,
@@ -4243,7 +4243,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -4345,7 +4345,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -4465,18 +4465,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/471/1178200.jpg"
                 },
                 "summary": "<p>The continuation of the long-running daily drama series\u2014about the lives, loves, and challenges of the residents on Ramsay Street in Erinsborough, Australia, a fictional suburb of Melbourne.\u00a0</p>",
-                "updated": 1732883387,
+                "updated": 1733822063,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/5420"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053702",
-                        "name": "Episode 9159"
+                        "href": "https://api.tvmaze.com/episodes/3053704",
+                        "name": "Episode 9161"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053703",
-                        "name": "Episode 9160"
+                        "href": "https://api.tvmaze.com/episodes/3053705",
+                        "name": "Episode 9162"
                     }
                 }
             }
@@ -4535,7 +4535,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 59,
                 "network": null,
                 "webChannel": {
                     "id": 103,
@@ -4702,7 +4702,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 68,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -4791,7 +4791,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 77,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -4960,7 +4960,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 78,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -5044,7 +5044,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 57,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -5124,7 +5124,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 57,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -5801,7 +5801,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 66,
+                "weight": 43,
                 "network": null,
                 "webChannel": {
                     "id": 287,
@@ -6933,7 +6933,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 52,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 108,
@@ -7230,18 +7230,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733608388,
+                "updated": 1733839950,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067344",
-                        "name": "Clea Shearer, Leon Bridges"
+                        "href": "https://api.tvmaze.com/episodes/3076338",
+                        "name": "Common, Walker Hayes"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076337",
-                        "name": "Kelly Clarkson"
+                        "href": "https://api.tvmaze.com/episodes/3076339",
+                        "name": "Christian Slater"
                     }
                 }
             }
@@ -7506,12 +7506,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076121",
-                        "name": "Ep. #15004"
+                        "href": "https://api.tvmaze.com/episodes/3076123",
+                        "name": "Ep. #15006"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076122",
-                        "name": "Ep. #15005"
+                        "href": "https://api.tvmaze.com/episodes/3076124",
+                        "name": "Ep. #15007"
                     }
                 }
             }
@@ -7568,7 +7568,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 78,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 83,
@@ -7660,7 +7660,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 56,
+                "weight": 57,
                 "network": null,
                 "webChannel": {
                     "id": 11,
@@ -7683,18 +7683,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733507212,
+                "updated": 1733852606,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067360",
-                        "name": "Episode 229"
+                        "href": "https://api.tvmaze.com/episodes/3076363",
+                        "name": "Episode 231"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076362",
-                        "name": "Episode 230"
+                        "href": "https://api.tvmaze.com/episodes/3076364",
+                        "name": "Episode 232"
                     }
                 }
             }
@@ -8094,7 +8094,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 67,
+                "weight": 65,
                 "network": null,
                 "webChannel": {
                     "id": 662,
@@ -8267,7 +8267,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -8391,18 +8391,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733590521,
+                "updated": 1733856115,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067364",
-                        "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                        "href": "https://api.tvmaze.com/episodes/3076371",
+                        "name": "Pattie Ehsaei, Hazel Vogel"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076370",
-                        "name": "Ren\u00e9e Elise Goldsberry, Hank Azaria"
+                        "href": "https://api.tvmaze.com/episodes/3076374",
+                        "name": "Sofia Carson, Ty Pennington"
                     }
                 }
             }
@@ -8688,6 +8688,342 @@
         }
     },
     {
+        "id": 3080690,
+        "url": "https://www.tvmaze.com/episodes/3080690/lucy-worsley-investigates-2x01-episode-1",
+        "name": "Episode 1",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2024-01-03",
+        "airtime": "21:00",
+        "airstamp": "2024-01-03T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+            "average": null
+        },
+        "image": null,
+        "summary": "<p>True crime is often thought of as a recent obsession, but here, Lucy Worsley investigates the phenomenon through one of the world's most infamous serial killers: Jack the Ripper.</p><p>She uncovers a story which goes beyond a single murderer and his five victims \u2013 Polly, Annie, Elizabeth, Catherine and Mary-Jane - to a burgeoning newspaper industry desperate for readers and a Victorian society that wasn't designed to support the most vulnerable.</p><p>Lucy explores how this unsolved case fuelled a new sensationalist journalism, which set a template for many of the true crime stories that followed.</p>",
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/3080690"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/62002",
+                "name": "Lucy Worsley Investigates"
+            }
+        },
+        "_embedded": {
+            "show": {
+                "id": 62002,
+                "url": "https://www.tvmaze.com/shows/62002/lucy-worsley-investigates",
+                "name": "Lucy Worsley Investigates",
+                "type": "Documentary",
+                "language": "English",
+                "genres": [
+                    "History"
+                ],
+                "status": "Running",
+                "runtime": 60,
+                "averageRuntime": 60,
+                "premiered": "2022-05-24",
+                "ended": null,
+                "officialSite": "https://www.bbc.co.uk/programmes/p0bvhjgp",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 26,
+                    "name": "BBC iPlayer",
+                    "country": {
+                        "name": "United Kingdom",
+                        "code": "GB",
+                        "timezone": "Europe/London"
+                    },
+                    "officialSite": "https://www.bbc.co.uk/iplayer"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 420050,
+                    "imdb": "tt20223708"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/528/1322158.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/528/1322158.jpg"
+                },
+                "summary": "<p>Lucy Worsley investigates the mysteries of some of the most infamous and brutal chapters in British history, finding new witnesses and compelling evidence. What will she uncover?</p>",
+                "updated": 1733826894,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62002"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080874",
+                        "name": "Episode 4"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 3080821,
+        "url": "https://www.tvmaze.com/episodes/3080821/lucy-worsley-investigates-2x02-episode-2",
+        "name": "Episode 2",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2024-01-03",
+        "airtime": "21:00",
+        "airstamp": "2024-01-03T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+            "average": null
+        },
+        "image": null,
+        "summary": "<p>On the 5th of November 1605, a group of radical Catholic conspirators, including Guy Fawkes, came within hours of blowing up the Houses of Parliament. Their aim was to assassinate the Protestant king James I and destroy his government in an attempt to restore England to the Catholic faith. Had it not been stopped, this one moment of violence could have changed the history of the country entirely.</p><p>The Gunpowder Plot was foiled, but its remembrance was written into law, and Guy Fawkes Night is still celebrated on 5th November. Lucy Worsley investigates what drove this group of men to attempt such an audacious act.</p><p>She delves into the motivations and mindsets of the Catholic plotters, searching for evidence in their childhoods, the rooms where they secretly met, and where Guy Fawkes finally faced his interrogators.</p>",
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/3080821"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/62002",
+                "name": "Lucy Worsley Investigates"
+            }
+        },
+        "_embedded": {
+            "show": {
+                "id": 62002,
+                "url": "https://www.tvmaze.com/shows/62002/lucy-worsley-investigates",
+                "name": "Lucy Worsley Investigates",
+                "type": "Documentary",
+                "language": "English",
+                "genres": [
+                    "History"
+                ],
+                "status": "Running",
+                "runtime": 60,
+                "averageRuntime": 60,
+                "premiered": "2022-05-24",
+                "ended": null,
+                "officialSite": "https://www.bbc.co.uk/programmes/p0bvhjgp",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 26,
+                    "name": "BBC iPlayer",
+                    "country": {
+                        "name": "United Kingdom",
+                        "code": "GB",
+                        "timezone": "Europe/London"
+                    },
+                    "officialSite": "https://www.bbc.co.uk/iplayer"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 420050,
+                    "imdb": "tt20223708"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/528/1322158.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/528/1322158.jpg"
+                },
+                "summary": "<p>Lucy Worsley investigates the mysteries of some of the most infamous and brutal chapters in British history, finding new witnesses and compelling evidence. What will she uncover?</p>",
+                "updated": 1733826894,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62002"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080874",
+                        "name": "Episode 4"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 3080873,
+        "url": "https://www.tvmaze.com/episodes/3080873/lucy-worsley-investigates-2x03-episode-3",
+        "name": "Episode 3",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2024-01-03",
+        "airtime": "21:00",
+        "airstamp": "2024-01-03T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+            "average": null
+        },
+        "image": null,
+        "summary": "<p>On 14 October 1066, the two vast armies of King Harold of England and William, Duke of Normandy, met on a battlefield near Hastings in southern England to fight for the English crown.</p><p>Harold was killed in battle, and William emerged victorious, forever to be known as William the Conqueror. The Battle of Hastings was a pivotal moment in English history, the last time this island nation would be successfully invaded - but one battle did not win the war.</p><p>Lucy sets out to investigate what William the Conqueror did after the Battle of Hastings to bend England to his will.</p>",
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/3080873"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/62002",
+                "name": "Lucy Worsley Investigates"
+            }
+        },
+        "_embedded": {
+            "show": {
+                "id": 62002,
+                "url": "https://www.tvmaze.com/shows/62002/lucy-worsley-investigates",
+                "name": "Lucy Worsley Investigates",
+                "type": "Documentary",
+                "language": "English",
+                "genres": [
+                    "History"
+                ],
+                "status": "Running",
+                "runtime": 60,
+                "averageRuntime": 60,
+                "premiered": "2022-05-24",
+                "ended": null,
+                "officialSite": "https://www.bbc.co.uk/programmes/p0bvhjgp",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 26,
+                    "name": "BBC iPlayer",
+                    "country": {
+                        "name": "United Kingdom",
+                        "code": "GB",
+                        "timezone": "Europe/London"
+                    },
+                    "officialSite": "https://www.bbc.co.uk/iplayer"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 420050,
+                    "imdb": "tt20223708"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/528/1322158.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/528/1322158.jpg"
+                },
+                "summary": "<p>Lucy Worsley investigates the mysteries of some of the most infamous and brutal chapters in British history, finding new witnesses and compelling evidence. What will she uncover?</p>",
+                "updated": 1733826894,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62002"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080874",
+                        "name": "Episode 4"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 3080874,
+        "url": "https://www.tvmaze.com/episodes/3080874/lucy-worsley-investigates-2x04-episode-4",
+        "name": "Episode 4",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2024-01-03",
+        "airtime": "21:00",
+        "airstamp": "2024-01-03T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+            "average": null
+        },
+        "image": null,
+        "summary": "<p>Mary Tudor, King Henry VIII's eldest daughter, came to the throne in 1553 and became infamous as one of the bloodiest queens in history. Allegedly executing her subjects at will for their religious beliefs, Mary's reign became defined by her staunch Catholicism.</p><p>Lucy Worsley investigates whether England's first ruling female monarch, Mary I, was truly as \u2018bloody' as history suggests, or whether this reputation arose from being the first woman in a predominantly male world.</p>",
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/3080874"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/62002",
+                "name": "Lucy Worsley Investigates"
+            }
+        },
+        "_embedded": {
+            "show": {
+                "id": 62002,
+                "url": "https://www.tvmaze.com/shows/62002/lucy-worsley-investigates",
+                "name": "Lucy Worsley Investigates",
+                "type": "Documentary",
+                "language": "English",
+                "genres": [
+                    "History"
+                ],
+                "status": "Running",
+                "runtime": 60,
+                "averageRuntime": 60,
+                "premiered": "2022-05-24",
+                "ended": null,
+                "officialSite": "https://www.bbc.co.uk/programmes/p0bvhjgp",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 26,
+                    "name": "BBC iPlayer",
+                    "country": {
+                        "name": "United Kingdom",
+                        "code": "GB",
+                        "timezone": "Europe/London"
+                    },
+                    "officialSite": "https://www.bbc.co.uk/iplayer"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 420050,
+                    "imdb": "tt20223708"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/528/1322158.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/528/1322158.jpg"
+                },
+                "summary": "<p>Lucy Worsley investigates the mysteries of some of the most infamous and brutal chapters in British history, finding new witnesses and compelling evidence. What will she uncover?</p>",
+                "updated": 1733826894,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62002"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080874",
+                        "name": "Episode 4"
+                    }
+                }
+            }
+        }
+    },
+    {
         "id": 2729861,
         "url": "https://www.tvmaze.com/episodes/2729861/eden-hotel-4x30-30-resz",
         "name": "30. r\u00e9sz",
@@ -8738,7 +9074,7 @@
                 "rating": {
                     "average": 4.8
                 },
-                "weight": 75,
+                "weight": 78,
                 "network": {
                     "id": 426,
                     "name": "RTL",
@@ -8837,7 +9173,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 607,
@@ -9181,7 +9517,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 59,
+                "weight": 60,
                 "network": null,
                 "webChannel": {
                     "id": 206,
@@ -9513,7 +9849,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 51,
                 "network": null,
                 "webChannel": {
                     "id": 327,

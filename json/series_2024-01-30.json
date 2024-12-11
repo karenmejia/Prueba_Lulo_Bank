@@ -499,12 +499,12 @@
                         "href": "https://api.tvmaze.com/shows/52178"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/2979675",
-                        "name": "Episode 148"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/2979676",
                         "name": "Episode 149"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2979677",
+                        "name": "Episode 150"
                     }
                 }
             }
@@ -564,7 +564,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 85,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -593,12 +593,12 @@
                         "href": "https://api.tvmaze.com/shows/54033"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3011615",
-                        "name": "Episode 501"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3011616",
                         "name": "Episode 502"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3011617",
+                        "name": "Episode 503"
                     }
                 }
             }
@@ -655,7 +655,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 68,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -745,7 +745,7 @@
                 "rating": {
                     "average": 6
                 },
-                "weight": 86,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -918,7 +918,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 71,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -947,12 +947,12 @@
                         "href": "https://api.tvmaze.com/shows/67773"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3005136",
-                        "name": "Episode 190"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3005137",
                         "name": "Episode 191"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3005138",
+                        "name": "Episode 192"
                     }
                 }
             }
@@ -1197,7 +1197,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 74,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1924,7 +1924,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 40,
                 "network": null,
                 "webChannel": {
                     "id": 208,
@@ -2018,7 +2018,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 49,
+                "weight": 46,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4139,7 +4139,7 @@
                 "rating": {
                     "average": 6.7
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -4168,12 +4168,12 @@
                         "href": "https://api.tvmaze.com/shows/793"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053759",
-                        "name": "05/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060027",
+                        "name": "10/12/2024"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060026",
-                        "name": "09/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060028",
+                        "name": "11/12/2024"
                     }
                 }
             }
@@ -5157,7 +5157,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -5249,7 +5249,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -5339,7 +5339,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 32,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5517,7 +5517,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 35,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5783,7 +5783,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 18,
+                "weight": 50,
                 "network": null,
                 "webChannel": {
                     "id": 226,
@@ -5874,7 +5874,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 18,
+                "weight": 50,
                 "network": null,
                 "webChannel": {
                     "id": 226,
@@ -6077,18 +6077,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/471/1178200.jpg"
                 },
                 "summary": "<p>The continuation of the long-running daily drama series\u2014about the lives, loves, and challenges of the residents on Ramsay Street in Erinsborough, Australia, a fictional suburb of Melbourne.\u00a0</p>",
-                "updated": 1732883387,
+                "updated": 1733822063,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/5420"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053702",
-                        "name": "Episode 9159"
+                        "href": "https://api.tvmaze.com/episodes/3053704",
+                        "name": "Episode 9161"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053703",
-                        "name": "Episode 9160"
+                        "href": "https://api.tvmaze.com/episodes/3053705",
+                        "name": "Episode 9162"
                     }
                 }
             }
@@ -6142,7 +6142,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 42,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -6225,7 +6225,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 66,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 103,
@@ -6389,7 +6389,7 @@
                 "rating": {
                     "average": 6.8
                 },
-                "weight": 83,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -6408,14 +6408,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115876.jpg"
                 },
                 "summary": "<p>Trailers that tell you the TRUTH about your favorite movies and TV shows: Honest Trailers. These are the hilarious trailers the producers don't want you to see...</p>",
-                "updated": 1733255870,
+                "updated": 1733858503,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/13392"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076005",
-                        "name": "Kick-Ass"
+                        "href": "https://api.tvmaze.com/episodes/3081102",
+                        "name": "The Hobbit (1977)"
                     }
                 }
             }
@@ -6467,7 +6467,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -6545,7 +6545,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 20,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 195,
@@ -6731,14 +6731,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
                 },
                 "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-                "updated": 1733473252,
+                "updated": 1733814095,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41611"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070996",
-                        "name": "12/6/24"
+                        "href": "https://api.tvmaze.com/episodes/3080805",
+                        "name": "12/10/24"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080806",
+                        "name": "12/11/24"
                     }
                 }
             }
@@ -6870,7 +6874,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -7033,7 +7037,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 73,
+                "weight": 71,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -7052,18 +7056,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894788.jpg"
                 },
                 "summary": "<p><b>Inside of You with Michael Rosenbaum</b> is a podcast, recorded series inside of the home of Michael Rosenbaum (Sorority Boys, Smallville). Listen as he invites celebrities, athletes, musicians, or anyone he finds interesting to sit next to on the couch, while he probes them for the most interesting stories they have.</p>",
-                "updated": 1733242789,
+                "updated": 1733843701,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/47944"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3075899",
-                        "name": "IKE BARINHOLTZ: Passing the Crazy Test, Post-MadTV Dry Spell & Major Jeopardy Regrets"
-                    },
-                    "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3075901",
-                        "name": "FRANKIE MUNIZ: Honest Parental Reflections, Dangers of Racing & the Reality of Child Actors"
+                        "href": "https://api.tvmaze.com/episodes/3080939",
+                        "name": "NATHAN MITCHELL: Carrying Silent Performance on THE BOYS & Finding Validation From Within"
                     }
                 }
             }
@@ -7299,7 +7299,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 48,
                 "network": null,
                 "webChannel": {
                     "id": 329,
@@ -7467,7 +7467,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 39,
                 "network": {
                     "id": 85,
                     "name": "PBS",
@@ -7647,7 +7647,7 @@
                 "rating": {
                     "average": 5.4
                 },
-                "weight": 85,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7734,7 +7734,7 @@
                 "rating": {
                     "average": 7.3
                 },
-                "weight": 43,
+                "weight": 35,
                 "network": null,
                 "webChannel": {
                     "id": 245,
@@ -7818,7 +7818,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 62,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 107,
@@ -8068,7 +8068,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 45,
+                "weight": 44,
                 "network": null,
                 "webChannel": {
                     "id": 397,
@@ -8156,7 +8156,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 40,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -8175,18 +8175,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
                 },
                 "summary": null,
-                "updated": 1733569008,
+                "updated": 1733861105,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/71524"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3078225",
-                        "name": "MENCZER, vagy a CSOKIMIKUL\u00c1S b\u00edrja tov\u00e1bb?"
+                        "href": "https://api.tvmaze.com/episodes/3078226",
+                        "name": "Vissza a TOXIKUS EXHEZ"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3078226",
-                        "name": "68. r\u00e9sz"
+                        "href": "https://api.tvmaze.com/episodes/3078227",
+                        "name": "69. r\u00e9sz"
                     }
                 }
             }
@@ -8410,7 +8410,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 58,
+                "weight": 55,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -9090,7 +9090,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 30,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9175,7 +9175,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 30,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9604,7 +9604,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 0,
+                "weight": 3,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -9689,7 +9689,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 79,
+                "weight": 80,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9708,16 +9708,12 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/515/1288954.jpg"
                 },
                 "summary": "<p>Chef David Chang hosts an unfiltered dining experience as he cooks for celebrity guests and shares culinary secrets.</p>",
-                "updated": 1733135083,
+                "updated": 1733753575,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/76310"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3074831",
-                        "name": "Episode 8"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3074832",
                         "name": "Episode 9"
                     }
@@ -10448,7 +10444,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 45,
                 "network": {
                     "id": 1282,
                     "name": "CCTV-1",
@@ -10548,7 +10544,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 45,
                 "network": {
                     "id": 1282,
                     "name": "CCTV-1",
@@ -10644,7 +10640,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 52,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 108,
@@ -10849,18 +10845,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733608388,
+                "updated": 1733839950,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067344",
-                        "name": "Clea Shearer, Leon Bridges"
+                        "href": "https://api.tvmaze.com/episodes/3076338",
+                        "name": "Common, Walker Hayes"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076337",
-                        "name": "Kelly Clarkson"
+                        "href": "https://api.tvmaze.com/episodes/3076339",
+                        "name": "Christian Slater"
                     }
                 }
             }
@@ -10954,12 +10950,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076121",
-                        "name": "Ep. #15004"
+                        "href": "https://api.tvmaze.com/episodes/3076123",
+                        "name": "Ep. #15006"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076122",
-                        "name": "Ep. #15005"
+                        "href": "https://api.tvmaze.com/episodes/3076124",
+                        "name": "Ep. #15007"
                     }
                 }
             }
@@ -11020,7 +11016,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 94,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 2,
@@ -11276,7 +11272,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 56,
+                "weight": 57,
                 "network": null,
                 "webChannel": {
                     "id": 11,
@@ -11299,18 +11295,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733507212,
+                "updated": 1733852606,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067360",
-                        "name": "Episode 229"
+                        "href": "https://api.tvmaze.com/episodes/3076363",
+                        "name": "Episode 231"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076362",
-                        "name": "Episode 230"
+                        "href": "https://api.tvmaze.com/episodes/3076364",
+                        "name": "Episode 232"
                     }
                 }
             }
@@ -11369,7 +11365,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 66,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 460,
@@ -11712,7 +11708,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 52,
                 "network": {
                     "id": 1058,
                     "name": "TV3",
@@ -11890,7 +11886,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -12014,18 +12010,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733590521,
+                "updated": 1733856115,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067364",
-                        "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                        "href": "https://api.tvmaze.com/episodes/3076371",
+                        "name": "Pattie Ehsaei, Hazel Vogel"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076370",
-                        "name": "Ren\u00e9e Elise Goldsberry, Hank Azaria"
+                        "href": "https://api.tvmaze.com/episodes/3076374",
+                        "name": "Sofia Carson, Ty Pennington"
                     }
                 }
             }
@@ -12169,7 +12165,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 3,
                 "network": {
                     "id": 1683,
                     "name": "DMC",
@@ -12267,7 +12263,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 6,
                 "network": {
                     "id": 1328,
                     "name": "TV Nova",
@@ -12389,12 +12385,12 @@
                         "href": "https://api.tvmaze.com/shows/4175"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060034",
-                        "name": "Wed 4 Dec 2024"
+                        "href": "https://api.tvmaze.com/episodes/3060036",
+                        "name": "Tue 10 Dec 2024"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060035",
-                        "name": "Mon 9 Dec 2024"
+                        "href": "https://api.tvmaze.com/episodes/3060037",
+                        "name": "Wed 11 Dec 2024"
                     }
                 }
             }
@@ -12451,7 +12447,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 83,
+                "weight": 74,
                 "network": null,
                 "webChannel": {
                     "id": 54,
@@ -12538,7 +12534,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 83,
+                "weight": 74,
                 "network": null,
                 "webChannel": {
                     "id": 54,
@@ -12625,7 +12621,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 83,
+                "weight": 74,
                 "network": null,
                 "webChannel": {
                     "id": 54,
@@ -12712,7 +12708,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 607,
@@ -13085,12 +13081,12 @@
                         "href": "https://api.tvmaze.com/shows/2266"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3046282",
-                        "name": "NXT Deadline"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/2783761",
                         "name": "Episode 50"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2783762",
+                        "name": "Episode 51"
                     }
                 }
             }
@@ -13310,7 +13306,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 102,
@@ -13389,7 +13385,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 51,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -14106,18 +14102,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
                 },
                 "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-                "updated": 1733635406,
+                "updated": 1733856971,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/718"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076462",
-                        "name": "Angelina Jolie, Sebastian Stan, Andrew Ridgeley, Laura Peek"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076463",
                         "name": "Keira Knightley, Christian Slater, Dean Edwards"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076464",
+                        "name": "John Mulaney, Linda Cardellini, Julien Baker, Torres"
                     }
                 }
             }

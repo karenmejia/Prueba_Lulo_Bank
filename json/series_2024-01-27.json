@@ -316,7 +316,7 @@
                 "rating": {
                     "average": 6
                 },
-                "weight": 86,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -492,7 +492,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 78,
+                "weight": 74,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -577,7 +577,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 71,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -606,12 +606,12 @@
                         "href": "https://api.tvmaze.com/shows/67773"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3005136",
-                        "name": "Episode 190"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3005137",
                         "name": "Episode 191"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3005138",
+                        "name": "Episode 192"
                     }
                 }
             }
@@ -946,7 +946,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 83,
+                "weight": 79,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -1206,7 +1206,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 238,
@@ -1298,7 +1298,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1386,7 +1386,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1474,7 +1474,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1562,7 +1562,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1650,7 +1650,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1738,7 +1738,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1826,7 +1826,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 41,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1915,7 +1915,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 74,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -2089,7 +2089,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 63,
+                "weight": 31,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -2355,7 +2355,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 49,
+                "weight": 46,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2449,7 +2449,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -3737,7 +3737,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 96,
+                "weight": 95,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3760,7 +3760,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/507/1269462.jpg"
                 },
                 "summary": "<p>Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.</p>",
-                "updated": 1733305329,
+                "updated": 1733841710,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/729"
@@ -4196,7 +4196,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4288,7 +4288,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4378,7 +4378,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4472,7 +4472,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4560,7 +4560,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 37,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4750,7 +4750,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 88,
+                "weight": 85,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -4918,7 +4918,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 36,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -5161,7 +5161,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 40,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -5180,7 +5180,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1161445.jpg"
                 },
                 "summary": "<p><b>The Pit Stop</b> is the official RuPaul's Drag Race recap show.</p>",
-                "updated": 1722296163,
+                "updated": 1733869063,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/59863"
@@ -5188,6 +5188,10 @@
                     "previousepisode": {
                         "href": "https://api.tvmaze.com/episodes/2897047",
                         "name": "Bob The Drag Queen & Katya"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3081173",
+                        "name": "Raven"
                     }
                 }
             }
@@ -5326,7 +5330,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 51,
+                "weight": 25,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -5411,7 +5415,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 51,
+                "weight": 25,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -5496,7 +5500,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 51,
+                "weight": 25,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -5581,7 +5585,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 51,
+                "weight": 25,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -5753,7 +5757,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 74,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -5837,7 +5841,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 40,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -5856,18 +5860,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/478/1197132.jpg"
                 },
                 "summary": null,
-                "updated": 1733569008,
+                "updated": 1733861105,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/71524"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3078225",
-                        "name": "MENCZER, vagy a CSOKIMIKUL\u00c1S b\u00edrja tov\u00e1bb?"
+                        "href": "https://api.tvmaze.com/episodes/3078226",
+                        "name": "Vissza a TOXIKUS EXHEZ"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3078226",
-                        "name": "68. r\u00e9sz"
+                        "href": "https://api.tvmaze.com/episodes/3078227",
+                        "name": "69. r\u00e9sz"
                     }
                 }
             }
@@ -6535,7 +6539,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 0,
+                "weight": 3,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -6879,7 +6883,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 97,
+                "weight": 98,
                 "network": {
                     "id": 132,
                     "name": "Tokyo MX",
@@ -7214,7 +7218,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 49,
+                "weight": 18,
                 "network": null,
                 "webChannel": {
                     "id": 11,
@@ -7300,7 +7304,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 32,
                 "network": null,
                 "webChannel": {
                     "id": 83,
@@ -7386,7 +7390,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 32,
                 "network": null,
                 "webChannel": {
                     "id": 83,
@@ -7565,7 +7569,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 3,
                 "network": {
                     "id": 1683,
                     "name": "DMC",
@@ -7661,7 +7665,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 607,
@@ -8098,7 +8102,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 2,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 190,

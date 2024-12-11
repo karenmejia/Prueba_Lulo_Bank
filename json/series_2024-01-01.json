@@ -1105,7 +1105,7 @@
                 "rating": {
                     "average": 6.3
                 },
-                "weight": 23,
+                "weight": 31,
                 "network": null,
                 "webChannel": {
                     "id": 366,
@@ -4324,7 +4324,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4418,7 +4418,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 78,
+                "weight": 69,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4511,7 +4511,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 30,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -6052,7 +6052,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 26,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -6140,7 +6140,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 26,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -6416,7 +6416,7 @@
                 "rating": {
                     "average": 6.7
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6445,12 +6445,12 @@
                         "href": "https://api.tvmaze.com/shows/793"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053759",
-                        "name": "05/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060027",
+                        "name": "10/12/2024"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060026",
-                        "name": "09/12/2024"
+                        "href": "https://api.tvmaze.com/episodes/3060028",
+                        "name": "11/12/2024"
                     }
                 }
             }
@@ -6504,7 +6504,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 88,
+                "weight": 86,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6588,7 +6588,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 88,
+                "weight": 86,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6677,7 +6677,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6766,7 +6766,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6855,7 +6855,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -6944,7 +6944,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -7033,7 +7033,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -7122,7 +7122,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -7294,7 +7294,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7379,7 +7379,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7464,7 +7464,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7549,7 +7549,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7634,7 +7634,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7719,7 +7719,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7804,7 +7804,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -7889,7 +7889,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -8543,7 +8543,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 12,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -8637,7 +8637,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 12,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -8895,7 +8895,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -8989,7 +8989,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -9270,7 +9270,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -9372,7 +9372,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -9584,18 +9584,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/471/1178200.jpg"
                 },
                 "summary": "<p>The continuation of the long-running daily drama series\u2014about the lives, loves, and challenges of the residents on Ramsay Street in Erinsborough, Australia, a fictional suburb of Melbourne.\u00a0</p>",
-                "updated": 1732883387,
+                "updated": 1733822063,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/5420"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053702",
-                        "name": "Episode 9159"
+                        "href": "https://api.tvmaze.com/episodes/3053704",
+                        "name": "Episode 9161"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3053703",
-                        "name": "Episode 9160"
+                        "href": "https://api.tvmaze.com/episodes/3053705",
+                        "name": "Episode 9162"
                     }
                 }
             }
@@ -9653,7 +9653,7 @@
                 "rating": {
                     "average": 5.6
                 },
-                "weight": 77,
+                "weight": 71,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -9736,7 +9736,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 13,
+                "weight": 14,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -9846,12 +9846,12 @@
                         "href": "https://api.tvmaze.com/shows/63719"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3077667",
-                        "name": "Episode 475"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3077668",
                         "name": "Episode 476"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3077669",
+                        "name": "Episode 477"
                     }
                 }
             }
@@ -10165,9 +10165,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10250,9 +10250,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10335,9 +10335,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10420,9 +10420,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10505,9 +10505,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10590,9 +10590,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10675,9 +10675,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -10760,9 +10760,9 @@
                     "days": []
                 },
                 "rating": {
-                    "average": 6.8
+                    "average": 6.7
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -11029,7 +11029,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -11122,7 +11122,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -11575,7 +11575,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 38,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -11659,7 +11659,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 38,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -11743,7 +11743,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 38,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -11827,7 +11827,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 38,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -12559,7 +12559,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 46,
+                "weight": 43,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -12637,7 +12637,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 31,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -13056,7 +13056,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 40,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -13075,14 +13075,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/522/1306697.jpg"
                 },
                 "summary": "<p>Weekly, comedian best friends Tom Segura and Bert Kreischer get together in the bear cave at YMH Studios to do what bears do: make each other laugh.</p>",
-                "updated": 1725133861,
+                "updated": 1733746390,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/77660"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/2991670",
-                        "name": "Ep 251 Reacting To MEAN Comments w/ Yung Gravy"
+                        "href": "https://api.tvmaze.com/episodes/3080587",
+                        "name": "Ep 265 Is Dax Shepard Bert's New Best Friend?"
                     }
                 }
             }
@@ -13227,7 +13227,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 52,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 108,
@@ -13705,12 +13705,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076121",
-                        "name": "Ep. #15004"
+                        "href": "https://api.tvmaze.com/episodes/3076123",
+                        "name": "Ep. #15006"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076122",
-                        "name": "Ep. #15005"
+                        "href": "https://api.tvmaze.com/episodes/3076124",
+                        "name": "Ep. #15007"
                     }
                 }
             }
@@ -13882,12 +13882,12 @@
                         "href": "https://api.tvmaze.com/shows/22473"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/2723161",
-                        "name": "Raw Talk 244"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/2723162",
                         "name": "Raw Talk 245"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2723163",
+                        "name": "Raw Talk 246"
                     }
                 }
             }
@@ -13945,7 +13945,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 56,
+                "weight": 57,
                 "network": null,
                 "webChannel": {
                     "id": 11,
@@ -13968,18 +13968,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733507212,
+                "updated": 1733852606,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067360",
-                        "name": "Episode 229"
+                        "href": "https://api.tvmaze.com/episodes/3076363",
+                        "name": "Episode 231"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076362",
-                        "name": "Episode 230"
+                        "href": "https://api.tvmaze.com/episodes/3076364",
+                        "name": "Episode 232"
                     }
                 }
             }
@@ -14122,7 +14122,7 @@
                 "rating": {
                     "average": 5.7
                 },
-                "weight": 97,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14295,7 +14295,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -14379,7 +14379,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14463,7 +14463,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14547,7 +14547,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14631,7 +14631,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14715,7 +14715,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14799,7 +14799,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14883,7 +14883,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -14967,7 +14967,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15051,7 +15051,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15135,7 +15135,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15219,7 +15219,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15303,7 +15303,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15387,7 +15387,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15471,7 +15471,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15555,7 +15555,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 70,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -15644,7 +15644,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 77,
+                "weight": 62,
                 "network": null,
                 "webChannel": {
                     "id": 238,
@@ -15735,7 +15735,7 @@
                 "rating": {
                     "average": 4.8
                 },
-                "weight": 75,
+                "weight": 78,
                 "network": {
                     "id": 426,
                     "name": "RTL",
@@ -15833,7 +15833,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -16185,7 +16185,7 @@
                 "rating": {
                     "average": 7.5
                 },
-                "weight": 96,
+                "weight": 95,
                 "network": {
                     "id": 30,
                     "name": "USA Network",
@@ -16223,12 +16223,12 @@
                         "href": "https://api.tvmaze.com/shows/802"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/2949080",
-                        "name": "#1645 - Angel of the Winds Arena in Everett, WA"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/2949081",
                         "name": "#1646 - Intrust Bank Arena in Wichita, KS"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2949082",
+                        "name": "#1647 - TD Garden in Boston, MA"
                     }
                 }
             }
@@ -16287,7 +16287,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 82,
+                "weight": 47,
                 "network": {
                     "id": 90,
                     "name": "Magnolia Network",
@@ -16369,7 +16369,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 51,
                 "network": null,
                 "webChannel": {
                     "id": 327,

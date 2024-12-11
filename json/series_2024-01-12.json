@@ -139,7 +139,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 55,
                 "network": null,
                 "webChannel": {
                     "id": 569,
@@ -397,7 +397,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 88,
+                "weight": 89,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -488,7 +488,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 68,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -577,7 +577,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -671,7 +671,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 78,
+                "weight": 69,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -764,7 +764,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 30,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -852,7 +852,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 81,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -940,7 +940,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 30,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1210,7 +1210,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 37,
                 "network": null,
                 "webChannel": {
                     "id": 454,
@@ -1298,7 +1298,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 45,
+                "weight": 46,
                 "network": {
                     "id": 127,
                     "name": "SBS",
@@ -1847,7 +1847,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1941,7 +1941,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -3914,7 +3914,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 50,
+                "weight": 52,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -4533,7 +4533,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -4620,7 +4620,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -4707,7 +4707,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -4794,7 +4794,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -4881,7 +4881,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -4968,7 +4968,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 164,
@@ -5054,7 +5054,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 36,
+                "weight": 64,
                 "network": null,
                 "webChannel": {
                     "id": 439,
@@ -5519,7 +5519,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 16,
+                "weight": 54,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5609,7 +5609,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 63,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5699,7 +5699,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 63,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5790,7 +5790,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 12,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -5884,7 +5884,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 41,
+                "weight": 47,
                 "network": null,
                 "webChannel": {
                     "id": 12,
@@ -6242,7 +6242,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 100,
+                "weight": 99,
                 "network": null,
                 "webChannel": {
                     "id": 310,
@@ -6343,14 +6343,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
                 },
                 "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-                "updated": 1733473252,
+                "updated": 1733814095,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41611"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070996",
-                        "name": "12/6/24"
+                        "href": "https://api.tvmaze.com/episodes/3080805",
+                        "name": "12/10/24"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080806",
+                        "name": "12/11/24"
                     }
                 }
             }
@@ -6508,7 +6512,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/493/1233442.jpg"
                 },
                 "summary": "<p><b>Reacher</b><i>\u00a0</i>follows Jack Reacher, a veteran military police investigator who has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served. When Reacher arrives in the small town of Margrave, Georgia, he finds a community grappling with its first homicide in 20 years. The cops immediately arrest him and eyewitnesses claim to place Reacher at the scene of the crime. While he works to prove his innocence, a deep-seated conspiracy begins to emerge, one that will require Reacher's keen mind and hard-hitting fists to deal with. One thing above all is for sure: They picked the wrong guy to take the fall.</p>",
-                "updated": 1733617782,
+                "updated": 1733866668,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/43031"
@@ -6686,8 +6690,8 @@
                         "href": "https://api.tvmaze.com/shows/51042"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076978",
-                        "name": "The Great Christmas Caper"
+                        "href": "https://api.tvmaze.com/episodes/3076994",
+                        "name": "The Batgirlmobile"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076979",
@@ -6775,8 +6779,8 @@
                         "href": "https://api.tvmaze.com/shows/51042"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076978",
-                        "name": "The Great Christmas Caper"
+                        "href": "https://api.tvmaze.com/episodes/3076994",
+                        "name": "The Batgirlmobile"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076979",
@@ -6864,8 +6868,8 @@
                         "href": "https://api.tvmaze.com/shows/51042"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076978",
-                        "name": "The Great Christmas Caper"
+                        "href": "https://api.tvmaze.com/episodes/3076994",
+                        "name": "The Batgirlmobile"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076979",
@@ -6953,8 +6957,8 @@
                         "href": "https://api.tvmaze.com/shows/51042"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076978",
-                        "name": "The Great Christmas Caper"
+                        "href": "https://api.tvmaze.com/episodes/3076994",
+                        "name": "The Batgirlmobile"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076979",
@@ -7042,8 +7046,8 @@
                         "href": "https://api.tvmaze.com/shows/51042"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076978",
-                        "name": "The Great Christmas Caper"
+                        "href": "https://api.tvmaze.com/episodes/3076994",
+                        "name": "The Batgirlmobile"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076979",
@@ -7187,7 +7191,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7267,7 +7271,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7347,7 +7351,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7427,7 +7431,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7507,7 +7511,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7587,7 +7591,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7667,7 +7671,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7747,7 +7751,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -8111,6 +8115,88 @@
         }
     },
     {
+        "id": 3080291,
+        "url": "https://www.tvmaze.com/episodes/3080291/lol-skrattar-bast-som-skrattar-sist-2x06-ingen-kommer-ge-sig",
+        "name": "Ingen kommer ge sig!",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2024-01-12",
+        "airtime": "",
+        "airstamp": "2024-01-12T12:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+            "average": null
+        },
+        "image": null,
+        "summary": null,
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/3080291"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/66531",
+                "name": "LOL: Skrattar B\u00e4st Som Skrattar Sist"
+            }
+        },
+        "_embedded": {
+            "show": {
+                "id": 66531,
+                "url": "https://www.tvmaze.com/shows/66531/lol-skrattar-bast-som-skrattar-sist",
+                "name": "LOL: Skrattar B\u00e4st Som Skrattar Sist",
+                "type": "Game Show",
+                "language": "Swedish",
+                "genres": [],
+                "status": "Running",
+                "runtime": 30,
+                "averageRuntime": 30,
+                "premiered": "2022-12-28",
+                "ended": null,
+                "officialSite": "https://www.primevideo.com/detail/LOL-Last-One-Laughing-Sweden/0I0TEBV2UPXJBLYA3K3KNJEP1R/ref=atv_nb_lcl_sv_SE?ie=UTF8",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 49,
+                "network": null,
+                "webChannel": {
+                    "id": 3,
+                    "name": "Prime Video",
+                    "country": null,
+                    "officialSite": "https://www.primevideo.com"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 428911,
+                    "imdb": "tt23050736"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/442/1106927.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/442/1106927.jpg"
+                },
+                "summary": "<p>Ten of Sweden's best comedians compete to make each other laugh, without bursting into laughter themselves. Anyone who can't keep up is out of the competition, where the winner's belt and SEK 500,000 for charity are at stake. All under the direction of Eva R\u00f6se.</p>",
+                "updated": 1733728510,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/66531"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080293",
+                        "name": "Pernilla f\u00f6rs\u00f6kte d\u00f6da oss!"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3080294",
+                        "name": "TBD"
+                    }
+                }
+            }
+        }
+    },
+    {
         "id": 2756115,
         "url": "https://www.tvmaze.com/episodes/2756115/kismetse-olur-askin-gucu-2x94-episode-94",
         "name": "Episode 94",
@@ -8199,8 +8285,8 @@
     },
     {
         "id": 2725384,
-        "url": "https://www.tvmaze.com/episodes/2725384/late-night-with-seth-meyers-corrections-4x12-week-of-monday-january-8",
-        "name": "Week of Monday, January 8",
+        "url": "https://www.tvmaze.com/episodes/2725384/late-night-with-seth-meyers-corrections-4x12-episode-91-week-of-monday-january-8",
+        "name": "Episode 91: Week of Monday, January 8",
         "season": 4,
         "number": 12,
         "type": "regular",
@@ -8245,7 +8331,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 13,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -8264,18 +8350,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/445/1114662.jpg"
                 },
                 "summary": "<p>Online short-form series with host Seth correcting the week's stories and arguing with YouTube commenters.</p>",
-                "updated": 1733645325,
+                "updated": 1733728385,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/66849"
                     },
                     "previousepisode": {
                         "href": "https://api.tvmaze.com/episodes/3065812",
-                        "name": "Week of Monday, November 25"
+                        "name": "Episode 122: Week of Monday, November 25"
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3079474",
-                        "name": "Week of Monday, December 9"
+                        "name": "Episode 123: Week of Monday, December 9"
                     }
                 }
             }
@@ -8831,7 +8917,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 67,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 216,
@@ -9267,7 +9353,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9352,7 +9438,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9437,7 +9523,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9522,7 +9608,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9607,7 +9693,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 58,
+                "weight": 55,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -10051,7 +10137,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 52,
+                "weight": 53,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -10465,7 +10551,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 8,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 388,
@@ -10878,7 +10964,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 45,
                 "network": {
                     "id": 1282,
                     "name": "CCTV-1",
@@ -10978,7 +11064,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 45,
                 "network": {
                     "id": 1282,
                     "name": "CCTV-1",
@@ -11281,18 +11367,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733608388,
+                "updated": 1733839950,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067344",
-                        "name": "Clea Shearer, Leon Bridges"
+                        "href": "https://api.tvmaze.com/episodes/3076338",
+                        "name": "Common, Walker Hayes"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076337",
-                        "name": "Kelly Clarkson"
+                        "href": "https://api.tvmaze.com/episodes/3076339",
+                        "name": "Christian Slater"
                     }
                 }
             }
@@ -11346,7 +11432,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 81,
+                "weight": 82,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11430,7 +11516,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 81,
+                "weight": 82,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11514,7 +11600,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 83,
+                "weight": 86,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11602,7 +11688,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 83,
+                "weight": 86,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11695,7 +11781,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 68,
                 "network": null,
                 "webChannel": {
                     "id": 464,
@@ -11907,12 +11993,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076121",
-                        "name": "Ep. #15004"
+                        "href": "https://api.tvmaze.com/episodes/3076123",
+                        "name": "Ep. #15006"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076122",
-                        "name": "Ep. #15005"
+                        "href": "https://api.tvmaze.com/episodes/3076124",
+                        "name": "Ep. #15007"
                     }
                 }
             }
@@ -12056,7 +12142,7 @@
                 "rating": {
                     "average": 1
                 },
-                "weight": 61,
+                "weight": 60,
                 "network": null,
                 "webChannel": {
                     "id": 15,
@@ -12148,7 +12234,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 56,
+                "weight": 57,
                 "network": null,
                 "webChannel": {
                     "id": 11,
@@ -12171,18 +12257,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733507212,
+                "updated": 1733852606,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067360",
-                        "name": "Episode 229"
+                        "href": "https://api.tvmaze.com/episodes/3076363",
+                        "name": "Episode 231"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076362",
-                        "name": "Episode 230"
+                        "href": "https://api.tvmaze.com/episodes/3076364",
+                        "name": "Episode 232"
                     }
                 }
             }
@@ -12581,7 +12667,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 485,
@@ -12669,7 +12755,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -12757,7 +12843,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -12845,7 +12931,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -12933,7 +13019,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13021,7 +13107,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13109,7 +13195,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13197,7 +13283,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13285,7 +13371,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13373,7 +13459,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13461,7 +13547,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 561,
@@ -13634,7 +13720,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -13837,7 +13923,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1285868.jpg"
                 },
                 "summary": "<p>A Norwegian humor-show about current affairs.</p>",
-                "updated": 1733675760,
+                "updated": 1733877213,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/26350"
@@ -13848,7 +13934,7 @@
                     },
                     "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3053816",
-                        "name": "TBA"
+                        "name": "Sunniva Gylver og Mani Husseini"
                     }
                 }
             }
@@ -13942,18 +14028,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733590521,
+                "updated": 1733856115,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067364",
-                        "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                        "href": "https://api.tvmaze.com/episodes/3076371",
+                        "name": "Pattie Ehsaei, Hazel Vogel"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076370",
-                        "name": "Ren\u00e9e Elise Goldsberry, Hank Azaria"
+                        "href": "https://api.tvmaze.com/episodes/3076374",
+                        "name": "Sofia Carson, Ty Pennington"
                     }
                 }
             }
@@ -14096,7 +14182,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 77,
+                "weight": 62,
                 "network": null,
                 "webChannel": {
                     "id": 238,
@@ -14217,12 +14303,12 @@
                         "href": "https://api.tvmaze.com/shows/4175"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060034",
-                        "name": "Wed 4 Dec 2024"
+                        "href": "https://api.tvmaze.com/episodes/3060036",
+                        "name": "Tue 10 Dec 2024"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3060035",
-                        "name": "Mon 9 Dec 2024"
+                        "href": "https://api.tvmaze.com/episodes/3060037",
+                        "name": "Wed 11 Dec 2024"
                     }
                 }
             }
@@ -14280,7 +14366,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 91,
+                "weight": 92,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -14380,7 +14466,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 607,
@@ -14468,7 +14554,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 91,
+                "weight": 92,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -14689,12 +14775,12 @@
                         "href": "https://api.tvmaze.com/shows/703"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3059124",
-                        "name": "Visionaries"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067182",
                         "name": "Viral"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3075247",
+                        "name": "Christmas Special"
                     }
                 }
             }
@@ -15412,18 +15498,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
                 },
                 "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-                "updated": 1733635406,
+                "updated": 1733856971,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/718"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076462",
-                        "name": "Angelina Jolie, Sebastian Stan, Andrew Ridgeley, Laura Peek"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076463",
                         "name": "Keira Knightley, Christian Slater, Dean Edwards"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076464",
+                        "name": "John Mulaney, Linda Cardellini, Julien Baker, Torres"
                     }
                 }
             }

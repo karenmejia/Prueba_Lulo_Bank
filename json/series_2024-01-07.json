@@ -319,7 +319,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 64,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 208,
@@ -494,7 +494,7 @@
                 "rating": {
                     "average": 7.5
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -588,7 +588,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 85,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -617,12 +617,12 @@
                         "href": "https://api.tvmaze.com/shows/54033"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3011615",
-                        "name": "Episode 501"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3011616",
                         "name": "Episode 502"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3011617",
+                        "name": "Episode 503"
                     }
                 }
             }
@@ -858,7 +858,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 74,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -947,7 +947,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 18,
+                "weight": 23,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1215,7 +1215,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 79,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -1665,7 +1665,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1757,7 +1757,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 10,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1945,7 +1945,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2039,7 +2039,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2310,7 +2310,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 22,
+                "weight": 55,
                 "network": null,
                 "webChannel": {
                     "id": 542,
@@ -2587,7 +2587,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -2689,7 +2689,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -3046,7 +3046,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -3829,14 +3829,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/503/1259984.jpg"
                 },
                 "summary": null,
-                "updated": 1732519359,
+                "updated": 1733813648,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/74645"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3066580",
-                        "name": "Good Games from Bad Companies (#420)"
+                        "href": "https://api.tvmaze.com/episodes/3080794",
+                        "name": "Games That Are Better on a Weaker Console 2 (#421)"
                     }
                 }
             }
@@ -4255,7 +4255,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 74,
+                "weight": 79,
                 "network": null,
                 "webChannel": {
                     "id": 447,
@@ -4339,7 +4339,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 102,
@@ -4854,7 +4854,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -4930,9 +4930,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -4966,7 +4966,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"
@@ -5019,9 +5019,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -5055,7 +5055,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"
@@ -5108,9 +5108,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -5144,7 +5144,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"
@@ -5197,9 +5197,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -5233,7 +5233,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"
@@ -5286,9 +5286,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -5322,7 +5322,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"
@@ -5375,9 +5375,9 @@
                     "Crime",
                     "Mystery"
                 ],
-                "status": "Running",
+                "status": "To Be Determined",
                 "runtime": null,
-                "averageRuntime": 57,
+                "averageRuntime": 56,
                 "premiered": "2020-03-31",
                 "ended": null,
                 "officialSite": "https://www.pbs.org/wgbh/masterpiece/shows/miss-scarlet-and-the-duke/",
@@ -5411,7 +5411,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/541/1354487.jpg"
                 },
                 "summary": "<p>When Eliza's father dies, he leaves her penniless in a time where marriage is the only option for financial security. But the headstrong Eliza has an ace up her bonnet - her father's business, a detective agency. But it's Victorian London and, to operate in this man's world, she needs a partner.</p><p>Step forward consummate rogue Detective Inspector William Wellington of Scotland Yard, aka \"The Duke\".</p><p>Eliza and Duke strike up a fiery relationship as they team up to solve puzzling crimes in the murkiest depths of 1880s London.</p>",
-                "updated": 1733659209,
+                "updated": 1733782828,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41532"

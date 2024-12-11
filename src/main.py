@@ -3,31 +3,29 @@ from utils.df_generation import normalize
 import os
 from utils.date_iteration import iteration
 import calendar
-import time
+from utils.data_profiling import data_profiling
+from utils.constants import constants
 
 # Definir la ruta para guardar el JSON en la carpeta raíz del proyecto
-directorio_raiz = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-ruta_json = os.path.join(directorio_raiz, 'json')
-year = 2024
-month = 1
+main_path = constants.main_path.value
+json_path = os.path.join(main_path, 'json')
+report_path = os.path.join(main_path,'profiling/profiling_report')
 
-normalize(ruta_json)
+year = constants.year.value
+month = constants.month.value
 
-# Crear una instancia de la clase APIHandler
-api = APIExtraction(base_url="http://api.tvmaze.com/schedule/web", save_directory=ruta_json)
+# Crear una instancia de la clase APIExtraction
+api = APIExtraction(base_url="http://api.tvmaze.com/schedule/web", save_directory=json_path)
 
-# Llamar a los métodos de la clase
-#date_generator = iteration(year,month)
-#last_day = calendar.monthrange(year, month)[1]
+# Se crea el generador
+date_generator = iteration(year,month)
+last_day = calendar.monthrange(year, month)[1]
 
-#for day in range(0,last_day):
-#    current_date = next(date_generator)
-#    datos = api.fetch_data(current_date)
-#    json_file = 'series_'+str(current_date)+'.json'
-#    api.save_json(datos, json_file)
+for day in range(0,last_day):
+    current_date = next(date_generator)
+    datos = api.fetch_data(current_date)
+    json_file = 'series_'+str(current_date)+'.json'
+    api.save_json(datos, json_file)
 
-# Procesar datos
-#processor = DataProcessor(ruta_json + "//" + json_file)
-#df = processor.load_data()
-#df_cleaned = processor.clean_data(df)
-#print(df.head())
+df = normalize(json_path)
+data_profiling(df,report_path)

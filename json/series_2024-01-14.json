@@ -50,7 +50,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -137,7 +137,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -224,7 +224,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -311,7 +311,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -398,7 +398,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 84,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -660,7 +660,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -748,7 +748,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 149,
@@ -836,7 +836,7 @@
                 "rating": {
                     "average": 7.5
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -930,7 +930,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 85,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -959,12 +959,12 @@
                         "href": "https://api.tvmaze.com/shows/54033"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3011615",
-                        "name": "Episode 501"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3011616",
                         "name": "Episode 502"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3011617",
+                        "name": "Episode 503"
                     }
                 }
             }
@@ -1200,7 +1200,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 74,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1289,7 +1289,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 18,
+                "weight": 23,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1658,7 +1658,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 83,
+                "weight": 79,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -2014,7 +2014,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 79,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -2560,7 +2560,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -3372,7 +3372,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 50,
+                "weight": 52,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -4262,7 +4262,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 32,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4356,7 +4356,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 32,
+                "weight": 67,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4447,7 +4447,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 12,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4628,7 +4628,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 22,
+                "weight": 55,
                 "network": null,
                 "webChannel": {
                     "id": 542,
@@ -4916,7 +4916,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 48,
+                "weight": 63,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -5078,7 +5078,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 70,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -6050,7 +6050,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 39,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 377,
@@ -6143,7 +6143,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 3,
                 "network": {
                     "id": 1683,
                     "name": "DMC",
@@ -6236,7 +6236,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 102,
@@ -6655,7 +6655,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 35,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -6905,7 +6905,7 @@
                 "rating": {
                     "average": 7.7
                 },
-                "weight": 72,
+                "weight": 84,
                 "network": null,
                 "webChannel": {
                     "id": 265,
