@@ -5,11 +5,14 @@ from utils.date_iteration import iteration
 import calendar
 from utils.data_profiling import data_profiling
 from utils.constants import constants
+from utils.data_cleaning import cleaning
+from utils.to_parquet import to_parquet
 
 # Definir la ruta para guardar el JSON en la carpeta raíz del proyecto
 main_path = constants.main_path.value
 json_path = os.path.join(main_path, 'json')
 report_path = os.path.join(main_path,'profiling/profiling_report')
+parquet_path = os.path.join(main_path,'data')
 
 year = constants.year.value
 month = constants.month.value
@@ -29,3 +32,5 @@ for day in range(0,last_day):
 
 df = normalize(json_path)
 data_profiling(df,report_path)
+cleaned_df = cleaning(df, '_embedded.show.schedule.days', '_embedded.show.genres')
+df_parquet = to_parquet(cleaned_df, parquet_path)
